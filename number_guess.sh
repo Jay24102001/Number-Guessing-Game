@@ -61,8 +61,5 @@ do
   else
     echo "It's lower than that, guess again:"
   fi
-  echo "# Added user input prompt" 
-
-echo "# Handle existing user welcome message" 
-echo "# Improve guess input validation" 
+echo "# Add final success message" 
 done
