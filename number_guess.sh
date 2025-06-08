@@ -61,4 +61,5 @@ do
   else
     echo "It's lower than that, guess again:"
   fi
+  echo "# Added user input prompt" 
 done
