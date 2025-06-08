@@ -61,5 +61,4 @@ do
   else
     echo "It's lower than that, guess again:"
   fi
-echo "# Add final success message" 
 done
