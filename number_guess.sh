@@ -64,4 +64,5 @@ do
   echo "# Added user input prompt" 
 
 echo "# Handle existing user welcome message" 
+echo "# Improve guess input validation" 
 done
